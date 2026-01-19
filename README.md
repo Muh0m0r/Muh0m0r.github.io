@@ -1,5 +1,7 @@
-# Muh0m0r.github.io
-<!DOCTYPE html>
+---
+layout: default
+title: Моя сторінка
+---
 <html lang="uk">
 <head>
     <meta charset="UTF-8">
